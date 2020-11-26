@@ -1,0 +1,52 @@
+<instrument>
+ <Name>Guitarra</Name>
+ <Brand>Fender</Brand>
+ <Model>Affinity</Model>
+ <Electric>true</Electric>
+ <Color>Negro</Color>
+ <Strings>6</Strings>
+ <Notes>E</Notes>
+ <Notes>B</Notes>
+ <Notes>G</Notes>
+ <Notes>D</Notes>
+ <Notes>A</Notes>
+ <Notes>E</Notes>
+</instrument>
+<instrument>
+ <Name>Ukulele</Name>
+ <Brand>Fender</Brand>
+ <Model>SeaSide</Model>
+ <Electric>false</Electric>
+ <Color>Cedro</Color>
+ <Strings>4</Strings>
+ <Notes>A</Notes>
+ <Notes>E</Notes>
+ <Notes>C</Notes>
+ <Notes>G</Notes>
+</instrument>
+<instrument>
+ <Name>Bass</Name>
+ <Brand>Gio</Brand>
+ <Model>Ibanez</Model>
+ <Electric>true</Electric>
+ <Color>Azul Electrico</Color>
+ <Strings>4</Strings>
+ <Notes>G</Notes>
+ <Notes>D</Notes>
+ <Notes>A</Notes>
+ <Notes>E</Notes>
+</instrument>
+<instrument>
+ <Name>Guitarra</Name>
+ <Brand>Fender</Brand>
+ <Model>Affinity</Model>
+ <Electric>true</Electric>
+ <Color>Negro</Color>
+ <Strings>6</Strings>
+ <Notes>E</Notes>
+ <Notes>B</Notes>
+ <Notes>G</Notes>
+ <Notes>D</Notes>
+ <Notes>A</Notes>
+ <Notes>E</Notes>
+</instrument>
