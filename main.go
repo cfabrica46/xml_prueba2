@@ -118,5 +118,5 @@ func main() {
 		log.Fatal(err)
 	}
 
-	fmt.Println(instruments[1])
+	fmt.Println(nuevo[1])
 }
